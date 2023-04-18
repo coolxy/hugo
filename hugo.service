@@ -1,0 +1,11 @@
+[Unit]
+Description=Hugo server running on port 1313
+
+[Service]
+ExecStart=/snap/bin/hugo server --baseUrl=192.168.1.8 --bind=0.0.0.0
+Restart=always
+User=root
+
+[Install]
+WantedBy=multi-user.target
+
