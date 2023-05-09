@@ -4,12 +4,12 @@
   icon: far fa-star
   links: 
     - title: 开发者速查手册
-      logo: ""
+      logo: 
       url: https://refer.coolxy.top
-      qrcode: assets/images/logos/qrcode.jpg
+      
       description: reference 开发者速查手册
     - title: 学习正则表达式
-      logo: 语雀.jpg
+      logo: regex.svg
       url: https://regex.coolxy.top
       description: 在线学习正则表达式
     - title: Linux命令
@@ -25,29 +25,29 @@
       url: http://reader.coolxy.top:90
       description: 开源阅读的web版
     - title: Wiki知识
-      logo: coding.png
+      logo: wikijs.png
       url: http://wiki.coolxy.top:90
       description: wiki知识。
     - title: Memo碎片知识
-      logo: github.jpg
+      logo: memo.png
       url: http://memo.coolxy.top:88
       description: GitHub 开源社区。
-    - title: Md2X 定制版
-      logo: mdx.png
-      url: https://mdx.ncbix.com/
-      description: Markdown 排版利器，Md2All 定制版。
-    - title: 搜狗微信
-      logo: 搜狗微信.jpg
-      url: https://weixin.sogou.com/
-      description: 搜狗微信搜索，一搜即达。
-    - title: 知乎
-      logo: 知乎.png
-      url: https://www.zhihu.com/
-      description: 知乎社区。
-    - title: V2EX
-      logo: v2ex.jpg
-      url: https://www.v2ex.com/
-      description: V2EX 创意工作者的社区。
+    - title: 阿里企业邮箱
+      logo: alimail.ico
+      url: https://qiye.aliyun.com/
+      description: 自建阿里企业邮箱coolxy.cn
+    - title: 网易企业邮箱
+      logo: 163mail.png
+      url: https://qy.163.com/login/
+      description: 自建网易企业邮箱
+    - title: 长鸿网盘
+      logo: pan.png
+      url: http://pan.coolxy.top:90
+      description: 自建的网盘
+    - title: Bitwarden
+      logo: bitwarden.png
+      url: https://vault.coolxy.top:9443
+      description: 自建的密码管理系统
     - title: 语雀话题
       logo: 语雀话题.png
       url: https://www.yuque.com/shenweiyan/wow
@@ -57,28 +57,58 @@
 - taxonomy: 前沿科技
   icon: fas fa-flask fa-lg
   list:
-    - term: AI智能
+    - term: 我的AI智能
       links:
-        - title: ChatGPT
-          logo: chatgpt.png
-          url: https://oaiai.top
-          description: 自建chatgpt next web
         - title: ChatBot
           logo: chatgpt.png
-          url: https://chatbot.oaiai.top/
+          url: https://ai.coolxy.top:8443/zh
+          description: 自己服务器建的
+        - title: ChatGPT-zeabur
+          logo: chatgpt.png
+          url: https://ai.qqai.ren
+          description: 自建chatgpt next web(zeabur)
+        - title: ChatGPT-next-web
+          logo: chatgpt.png
+          url: https://www.qqai.live
+          description: 自建chatgpt next web(cervel)
+        - title: ChatBot
+          logo: chatgpt.png
+          url: https://chatbot.qqai.live/zh
           description: "Chatbot UI"
         - title: ChatGPT-cervel
           logo: chatgpt.png
-          url: https://chatgpt.oaiai.top
+          url: https://chatgpt.coolxy.cn/
           description: ChatGPT-cervel
         - title: YakGPT
           logo: chatgpt.png
-          url: https://ai.oaiai.top
+          url: https://yakgpt.qqai.live/
           description: yakGPT
         - title: Openai
-          logo: gitter.jpg
+          logo: chatgpt.png
           url: https://chat.openai.com/chat
-          description: Galaxy Gitter Community.
+          description: 
+        - title: 1
+          logo: 
+          url: 
+          description:
+        - title: 1
+          logo: 
+          url: 
+          description:
+        - title: 1
+          logo: 
+          url: 
+          description:
+        - title: 1
+          logo: 
+          url: 
+          description:
+        - title: 1
+          logo: 
+          url: 
+          description:
+    - term: 高精AI智能
+      links: 
         - title: 一格文生图
           logo: r-project.jpg
           url: https://yige.baidu.com
@@ -103,7 +133,70 @@
           logo: 
           url: https://www.aiyjs.com/
           description: 国内外AI工具资讯首发站  
-          
+        - title: 数据库AI
+          logo:
+          url: https://www.sqlchat.ai/
+          description: 一个数据库文本处理程序
+        - title: chatgpt(去问AI）
+          logo:
+          url: https://quwenai.com/
+          description: 无密码可用
+        - title: chatgpt
+          logo:
+          url: http://chatgpt.stynb.top/
+          description: xiaolongnb
+        - title: openai账号
+          logo: 
+          url: http://chatgpt.nnnzh.com/?mod=buy&tid=1
+          description: 
+        - title: POE集合智能
+          logo: 
+          url: https://poe.com/
+          description: login with google
+        - title: phind
+          logo: phind.png
+          url: https://www.phind.com/
+          description: 可用的
+        - title: 谷歌巴德
+          logo: bard.png
+          url: https://bard.google.com/
+          description:          
+        - title: AI Search
+          logo: 
+          url: https://you.com/
+          description: AI智能搜索
+        - title: AI聊天室
+          logo: 
+          url: https://chirper.ai/
+          description: 只有AI发贴
+        - title: AI法律助手
+          logo: 
+          url: https://law.ai2045.com/
+          description: AI法律助手
+        - title: 1
+          logo: 
+          url: 
+          description:
+        - title: 1
+          logo: 
+          url: 
+          description:
+        - title: 1
+          logo: 
+          url: 
+          description:
+        - title: 1
+          logo: 
+          url: 
+          description:
+        - title: 1
+          logo: 
+          url: 
+          description:
+        - title: 1
+          logo: 
+          url: 
+          description:
     - term: 云服务器
       links:
         - title: 阿里云
@@ -439,12 +532,23 @@
 - taxonomy: 开发设计
   icon: fas fa-tools fa-lg
   list: 
+    - term: 网站开发
+      links:
+        - title: zeabur部署
+          url: https://dash.zeabur.com/
+          logo: zeabur
+          description: 在线部署github网站
+          
+        - title: 域名注册
+          url: https://www.dynadot.com/
+          logo:
+          description: 国外域名注册商
     - term: 图形创意
       links:
-        - title: photoshop
-          url: https://www.adobe.com/cn/products/photoshop.html
+        - title: 稿定设计
+          url: https://ps.gaoding.com/#/
           logo: photoshop.png
-          description: Photoshop不需要解释
+          description: 在线PS
         - title: Affinity Designer
           url: https://affinity.serif.com/
           logo: AffinityDesigner.png
@@ -651,6 +755,18 @@
           url: https://www.coolshell.cn/
           logo: ''
           description: 酷 壳 – CoolShell。
+        - title: 蓝鲨
+          url: https://www.lan-sha.com/
+          logo: lan-sha.png
+          description: 在互联网自由敖翔
+        - title: 咕咕鸽
+          url: https://blog.laoda.de
+          logo: 
+          description: 
+        - title: E家分享
+          url: https://www.5iehome.cc/
+          logo: 
+          description: 最实用的经验，分享最需要的你
     - term: 设计规范
       links:
         - title: Design Guidelines
@@ -705,3 +821,45 @@
           url: https://alist.nn.ci/tool/aliyundrive/request.html
           logo: 
           description: Alist的获取页面
+    - term: 查询工具
+      links:
+        - title: 狗狗查询
+          url: https://www.ggcx.com/
+          logo: 
+          description: 域名查询，是否被污染
+    - term: 在线接码
+      links:
+        - title: 在线接码
+          url: https://sms-activate.org/
+          logo: 
+          description: sms-activate        
+        - title: 1
+          url: 
+          logo: 
+          description:   
+        - title: 1
+          url: 
+          logo: 
+          description:   
+        - title: 1
+          url: 
+          logo: 
+          description:   
+        - title: 1
+          url: 
+          logo: 
+          description:   
+        - title: 1
+          url: 
+          logo: 
+          description:   
+        - title: 1
+          url: 
+          logo: 
+          description:   
+
+
+
+
+
+          

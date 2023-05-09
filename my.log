@@ -1,0 +1,8 @@
+nohup: ignoring input
+npm ERR! Missing script: "dev"
+npm ERR! 
+npm ERR! To see a list of scripts, run:
+npm ERR!   npm run
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/qq/.npm/_logs/2023-05-06T09_29_07_925Z-debug-0.log
